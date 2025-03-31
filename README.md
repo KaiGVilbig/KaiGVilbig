@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Full Stack Software Engineer<br>- 📚 I'm currently studying for my masters in cybersecurity at Johns Hopkins University<br>- ⚡ In my free time I like to tinker with arduinos and work on at home projects</p>
+<p align="left">I'm a software engineer from Maryland. I got my undergraduate degree in Computer Science at University of Maryland, Baltimore County and am currently working on my Masters in Cybersecurity at Johns Hopkins University. For a few years after my undergrad, I was a volunteer EMT/Firefighter, but have put that on pause to get my masters.<br><br>- 🔭 I’m working as Full Stack Software Engineer at Digital Recieve Technologies<br>- 📚 I'm currently studying for my masters in cybersecurity at Johns Hopkins University<br>- ⚡ In my free time I like to tinker with arduinos and work on at home projects</p>
 
 ###
 
