@@ -1,65 +1,74 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
-</div>
+# Kai Vilbig
 
-###
+**Software Engineer** · Full-Stack · Embedded Systems · Security
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kai-vilbig-6a4967172/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+I build production systems across the stack — from React/TypeScript frontends and Node.js/Java backend services to embedded C++ and Linux systems programming. Currently at Digital Receiver Technology working on mission-critical signal intelligence software. Pursuing an M.S. in Cybersecurity (Cyber Operations) at Johns Hopkins University.
 
-###
+📍 Relocating to Chicago, IL  
+🔗 [linkedin.com/in/kai-vilbig-6a4967172](https://www.linkedin.com/in/kai-vilbig-6a4967172/)
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Languages**
 
-###
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-<p align="left">I'm a software engineer from Maryland. I got my undergraduate degree in Computer Science at University of Maryland, Baltimore County and am currently working on my Masters in Cybersecurity at Johns Hopkins University. For a few years after my undergrad, I was a volunteer EMT/Firefighter, but have put that on pause to get my masters.<br><br>- 🔭 I’m working as Full Stack Software Engineer at Digital Recieve Technologies<br>- 📚 I'm currently studying for my masters in cybersecurity at Johns Hopkins University<br>- ⚡ In my free time I like to tinker with arduinos and work on at home projects</p>
+**Frontend**
 
-###
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-<h3 align="left">🛠 Language and tools</h3>
+**Backend & Data**
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="40" alt="c"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40" alt="java" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rect/rect-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket logo" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elastic search" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg" height="40" alt="jira" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/openapi/openapi-original.svg" height="40" alt="openapi" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rockylinux/rockylinux-original.svg" height="40" alt="rocky" />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" height="40" alt="vs" />
-</div>
+**DevOps & Tooling**
 
-###
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [MLKEM](https://github.com/KaiGVilbig/MLKEM) — Post-Quantum Encryption Library
+Implementation of the NIST FIPS 203 Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) standard in C++. Includes PRNG seeding, SHA-3 hashing, and SHAKE-based key derivation. Cross-compiled for Linux and Windows with Python bindings.
+
+`C++` `Cryptography` `SHA-3` `SHAKE` `CMake` `Python bindings`
+
+---
+
+### [HomeAuto](https://github.com/VilSoft/HomeAuto) — Linux Home Server Dashboard
+Full-stack Next.js + MongoDB dashboard with automated event scraping and server-side rendering. Packaged as a `.deb` for deployment on Raspberry Pi OS.
+
+`TypeScript` `Next.js` `MongoDB` `Node.js` `Debian packaging` `Raspberry Pi`
+
+---
+
+### [Raytracer](https://github.com/KaiGVilbig/Raytracer) — 3D Rendering Engine
+Ray tracing and rasterization pipelines for 3D model visualization. Parses `.nff` scene files and outputs `.ppm` images with accurate lighting, shadows, and reflections.
+
+`C++` `OpenGL` `Ray tracing` `Rasterization`
+
+---
+
+## Education
+
+**M.S. Cybersecurity — Cyber Operations** · Johns Hopkins University *(Expected Dec 2027)*  
+**B.S. Computer Science — Cybersecurity** · UMBC *(2021)*
