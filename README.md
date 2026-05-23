@@ -54,6 +54,13 @@ Implementation of the NIST FIPS 203 Module-Lattice-Based Key-Encapsulation Mecha
 
 ---
 
+### [Arduino Serial Comms](https://github.com/KaiGVilbig/arduino-serial-comms) — C++ Serial communication with arduino
+Send commands to an arduino board via the serial port. Arduino parses messages structured type,action,params, sends command back on the serial port. C++ app opens serial communication using terminos. User can type commands in the terminal and view the responses.
+
+`C++` `C` `Arduino` `Serial I/O` `CMake` `GTest` `log4cxx`
+
+---
+
 ### [HomeAuto](https://github.com/VilSoft/HomeAuto) — Linux Home Server Dashboard
 Full-stack Next.js + MongoDB dashboard with automated event scraping and server-side rendering. Packaged as a `.deb` for deployment on Raspberry Pi OS.
 
